@@ -49,12 +49,12 @@ class HomeTab extends StatelessWidget {
               ),
 
             Padding(
-              padding: const EdgeInsets.all(12.0),
+              padding: const EdgeInsets.symmetric(horizontal: 12,vertical: 16),
               child: Wrap(
                 crossAxisAlignment: WrapCrossAlignment.center,
                 alignment: WrapAlignment.center,
-                spacing: 8,
-                runSpacing: 8,
+                spacing: 10,
+                runSpacing: 12,
                 children: [
                   CategoryBox(
                     title: 'Restaurants',

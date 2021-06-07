@@ -38,4 +38,11 @@ Some screenshots of the App with current changes
 - Home Screen
 <img src="https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/main/assets/screenshots/home.png?raw=true" width="200" height="400">
 
+- Favorite Screen
+<img src="https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/main/assets/screenshots/favorite.png?raw=true" width="200" height="400">
+
+- Search Screen
+<img src="https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/main/assets/screenshots/search.png?raw=true" width="200" height="400">
+
+
 # Lezzo-Clone-Flutter
