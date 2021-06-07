@@ -33,9 +33,9 @@ flutter run -v
 Some screenshots of the App with current changes
 
 - Splash Screen
-![alt text](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/master/assets/screens/splash.png?raw=true)
+![alt splash](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/main/assets/screenshots/splash.png?raw=true)
 
 - Home Screen
-![alt text](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/master/assets/screens/home.png?raw=true)
+![alt home](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/main/assets/screenshots/home.png?raw=true)
 
 # Lezzo-Clone-Flutter
