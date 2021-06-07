@@ -1,17 +1,31 @@
-# lezzoo_clone_flutter
+# Lezzoo Clone
+## By Mahammad M Bakr
 
-A new Flutter application.
+A new application using Flutter to clone Lezzoo App.
+
+Main Application on play store is [here](https://play.google.com/store/apps/details?id=com.fastwares.lezzoo.eats)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### clone source code
 
-A few resources to get you started if this is your first Flutter project:
+clone source code on VS-Code or Android Studio
+```dart
+git clone https://github.com/mahammadbakr/Lezzo-Clone-Flutter.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### get dependencies
+get dependencies imported in "pubspec.yaml"
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+flutter pub get
+```
+
+### run app
+run application with this command
+
+```dart
+flutter run -v
+```
+
 # Lezzo-Clone-Flutter
