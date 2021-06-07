@@ -28,4 +28,14 @@ run application with this command
 flutter run -v
 ```
 
+## Demo
+
+Some screenshots of the App with current changes
+
+- Splash Screen
+![alt text](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/master/assets/screens/splash.png?raw=true)
+
+- Home Screen
+![alt text](https://github.com/mahammadbakr/Lezzo-Clone-Flutter/blob/master/assets/screens/home.png?raw=true)
+
 # Lezzo-Clone-Flutter

@@ -36,25 +36,25 @@ class _HomeScreenState extends State<HomeScreen> {
                   icon: ImageIcon(
                     AssetImage(Constants.homeIcon),
                   ),
-                  label: 'Job',
+                  label: 'Home',
                 ),
                 BottomNavigationBarItem(
                   icon: ImageIcon(
                     AssetImage(Constants.favoriteIcon),
                   ),
-                  label: 'Search',
+                  label: 'Favorites',
                 ),
                 BottomNavigationBarItem(
                   icon: ImageIcon(
                     AssetImage(Constants.searchIcon),
                   ),
-                  label: 'Notification',
+                  label: 'Search',
                 ),
                 BottomNavigationBarItem(
                   icon: ImageIcon(
                     AssetImage(Constants.cartIcon),
                   ),
-                  label: 'Profile',
+                  label: 'Cart',
                 ),
                 BottomNavigationBarItem(
                   icon: ImageIcon(
