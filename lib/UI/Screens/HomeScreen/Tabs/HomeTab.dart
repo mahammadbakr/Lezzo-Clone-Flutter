@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:lezzoo_clone_flutter/Constants.dart';
 import 'package:lezzoo_clone_flutter/Helper/ThemeOf.dart';
+import 'package:lezzoo_clone_flutter/UI/Components/CategoryBox.dart';
 import 'package:lezzoo_clone_flutter/UI/Screens/HomeScreen/Components/BalanceHome.dart';
 import 'package:lezzoo_clone_flutter/UI/Screens/HomeScreen/Components/HeaderHome.dart';
 import 'package:lezzoo_clone_flutter/UI/Screens/HomeScreen/Components/StarSectionHome.dart';
@@ -24,6 +25,181 @@ class HomeTab extends StatelessWidget {
               HeaderHome(),
               BalanceHome(),
               StarSectionHome(),
+              SizedBox(
+                height: 8,
+              ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                        'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 2.4,
+                  ),
+                  CategoryBox(
+                    title: 'Markets',
+                    color: Colors.lightBlueAccent,
+                    imageUrl:
+                        'https://www.pngkey.com/png/full/28-282736_clipart-big-image-png-transparent-background-nachos-clipart.png',
+                    size: MediaQuery.of(context).size.width / 2.4,
+                  ),
+                ],
+              ),
+
+            Padding(
+              padding: const EdgeInsets.all(12.0),
+              child: Wrap(
+                crossAxisAlignment: WrapCrossAlignment.center,
+                alignment: WrapAlignment.center,
+                spacing: 8,
+                runSpacing: 8,
+                children: [
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width / 4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                  CategoryBox(
+                    title: 'Restaurants',
+                    color: Colors.orange,
+                    imageUrl:
+                    'https://i.dlpng.com/static/png/6367350_preview.png',
+                    size: MediaQuery.of(context).size.width /  4.8,
+                  ),
+                ],
+              ),
+            )
+
             ],
           ),
         ),

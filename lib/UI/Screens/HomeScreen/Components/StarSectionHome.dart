@@ -15,8 +15,8 @@ class StarSectionHome extends StatelessWidget {
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(20),
               gradient: LinearGradient(
-                begin: Alignment.topRight,
-                end: Alignment.bottomLeft,
+                begin: Alignment.centerRight,
+                end: Alignment.centerLeft,
                 colors: [
                   theme(context).primaryColor.withAlpha(150),
                   theme(context).primaryColor,

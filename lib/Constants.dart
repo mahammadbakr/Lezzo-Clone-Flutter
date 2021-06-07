@@ -12,5 +12,6 @@ class Constants {
   static String profileIcon = 'assets/images/profileIcon.png';
   static String notificationIcon = 'assets/images/notificationIcon.png';
   static String coinIcon = 'assets/images/coinIcon.png';
+  //dummy
 
 }
